@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="leftMenuColor">#000</color>
+    <color name="BottomNavigationColor">#808f8f8f</color>
+    <color name="defaultToolbarColor">#f00</color>
+    <color name="toolbarColor1">#FFBBFF</color>
+    <color name="toolbarColor2">#5cf</color>
+    <color name="toolbarColor3">#fff</color>
+    <color name="toolbarColor4">#1df</color>
+    <color name="toolbarColor5">#3ec</color>
+</resources>

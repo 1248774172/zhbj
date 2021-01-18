@@ -1,0 +1,31 @@
+[
+    {
+        "name":"首页",
+        "canOpenLeftMenu":false,
+        "backgroundColor":"#FFBBFF"
+    },
+
+    {
+        "name":"新闻中心",
+        "canOpenLeftMenu":true,
+        "backgroundColor":"#55ccff"
+    },
+
+    {
+        "name":"智慧服务",
+        "canOpenLeftMenu":true,
+        "backgroundColor":"#ffffff"
+    },
+
+    {
+        "name":"政务",
+        "canOpenLeftMenu":true,
+        "backgroundColor":"#11ddff"
+    },
+
+    {
+        "name":"设置",
+        "canOpenLeftMenu":false,
+        "backgroundColor":"#33eecc"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bt_home"
+        android:icon="@drawable/home_press"
+        android:title="首页" />
+    <item
+        android:id="@+id/bt_news"
+        android:icon="@drawable/newscenter"
+        android:title="新闻中心" />
+    <item
+        android:id="@+id/bt_service"
+        android:icon="@drawable/smartservice"
+        android:title="智慧服务" />
+    <item
+        android:id="@+id/bt_gov"
+        android:icon="@drawable/govaffairs"
+        android:title="政务" />
+    <item
+        android:id="@+id/bt_set"
+        android:icon="@drawable/setting"
+        android:title="设置" />
+</menu>
